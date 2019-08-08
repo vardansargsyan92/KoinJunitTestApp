@@ -1,4 +1,4 @@
-package com.example.koinjunittest
+package com.example.koinjunittestviewmodeltests
 
 import org.junit.Test
 

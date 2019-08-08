@@ -1,2 +1,4 @@
 rootProject.name='KoinJunitTest'
 include ':app'
+include ':koinjunittestviewmodels'
+include ':koinjunittestviewmodeltests'
