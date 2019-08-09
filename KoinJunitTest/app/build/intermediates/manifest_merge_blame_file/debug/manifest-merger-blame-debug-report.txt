@@ -27,34 +27,33 @@
 18-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:10:9-54
 19        android:supportsRtl="true"
 19-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:11:9-35
-20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:12:9-40
-22        <activity android:name="com.example.koinjunittest.views.MainActivity" >
-22-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:13:9-19:20
-22-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:13:19-53
-23            <intent-filter>
-23-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:14:13-18:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:15:17-69
-24-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:15:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:17:17-77
-26-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:17:27-74
-27            </intent-filter>
-28        </activity>
-29
-30        <provider
-30-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:25:9-29:43
-31            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-31-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:26:13-79
-32            android:authorities="com.example.koinjunittest.lifecycle-process"
-32-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:27:13-69
-33            android:exported="false"
-33-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:28:13-37
-34            android:multiprocess="true" />
-34-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:29:13-40
-35    </application>
-36
-37</manifest>
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity android:name="com.example.koinjunittest.views.MainActivity" >
+21-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:13:9-19:20
+21-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:13:19-53
+22            <intent-filter>
+22-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <provider
+29-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:25:9-29:43
+30            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+30-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:26:13-79
+31            android:authorities="com.example.koinjunittest.lifecycle-process"
+31-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:27:13-69
+32            android:exported="false"
+32-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:28:13-37
+33            android:multiprocess="true" />
+33-->[androidx.lifecycle:lifecycle-process:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3792003d9673e60303f582697a77e8e3\lifecycle-process-2.2.0-alpha03\AndroidManifest.xml:29:13-40
+34    </application>
+35
+36</manifest>

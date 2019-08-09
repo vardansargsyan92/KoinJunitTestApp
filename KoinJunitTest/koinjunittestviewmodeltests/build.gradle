@@ -36,7 +36,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //Koin
-   // implementation 'org.koin:koin-android:2.0.1'
     testImplementation 'org.koin:koin-test:2.0.1'
 
+    //AAC
+    testImplementation 'android.arch.core:core-testing:1.1.1'
 }

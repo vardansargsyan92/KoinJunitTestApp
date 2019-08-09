@@ -1,12 +1,13 @@
 package com.example.koinjunittestviewmodeltests
 
+import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import com.example.koinjunittestviewmodels.di.viewModelsModule
 import com.example.koinjunittestviewmodels.main.IMainViewModel
+import junit.framework.Assert.assertEquals
 import org.junit.After
-import org.junit.Test
-
-import org.junit.Assert.*
 import org.junit.Before
+import org.junit.Rule
+import org.junit.Test
 import org.koin.core.context.startKoin
 import org.koin.core.context.stopKoin
 import org.koin.test.KoinTest
@@ -19,7 +20,10 @@ import org.koin.test.inject
  */
 class ExampleUnitTest : KoinTest {
 
-    private val viewModel by inject<IMainViewModel>()
+private val viewModel by inject<IMainViewModel>()
+
+    @get:Rule
+    val rule = InstantTaskExecutorRule()
 
     @Before
     fun before() {
@@ -35,11 +39,9 @@ class ExampleUnitTest : KoinTest {
 
     @Test
     fun addition_isCorrect() {
-
-
         viewModel.ParamOne.postValue(5)
         viewModel.ParamTwo.postValue(5)
         viewModel.AddCommand.execute()
-        assertEquals(10, viewModel.result)
+        assertEquals(10, viewModel.result.value)
     }
 }

@@ -1,7 +1,7 @@
 package com.example.koinjunittest.views
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.example.koinjunittest.R
 import com.example.koinjunittest.databinding.ActivityMainBinding

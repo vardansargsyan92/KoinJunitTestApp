@@ -7,8 +7,8 @@ INJECTED from C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app
 MERGED from [:koinjunittestviewmodels] C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\koinjunittestviewmodels\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\7f640306f23430950ab3d238e572009f\databinding-adapters-3.6.0-alpha05\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\07a42dc6d5d3b1c6e0b2241609b5382a\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:17:1-24:12
-MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\0f5db3445d85fcb3ffc98bf5dd06309f\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:2:1-9:12
-MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\844ecb76c67a5444284326aec2ef39c8\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3a7f99f68d52d926de7c2b5b1855272b\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\80d46fc0f6be7697664d1dc231f365b0\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\fe1dabaf640da0fd07c6bd997597e712\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\bc52449546087fc63e037d21fb3d1b2d\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\a4202d6f15313c3ef29a6f8e3652af40\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -64,10 +64,10 @@ INJECTED from C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app
 		ADDED from C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\varda\Desktop\Projects\KoinJunitTestApp\KoinJunitTest\app\src\main\AndroidManifest.xml:5:5-20:19
-MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\0f5db3445d85fcb3ffc98bf5dd06309f\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\0f5db3445d85fcb3ffc98bf5dd06309f\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\844ecb76c67a5444284326aec2ef39c8\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
-MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\844ecb76c67a5444284326aec2ef39c8\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3a7f99f68d52d926de7c2b5b1855272b\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3a7f99f68d52d926de7c2b5b1855272b\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\80d46fc0f6be7697664d1dc231f365b0\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\80d46fc0f6be7697664d1dc231f365b0\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\a4202d6f15313c3ef29a6f8e3652af40\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\a4202d6f15313c3ef29a6f8e3652af40\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha03] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\6423e11a768903537df57cee27c10fff\lifecycle-extensions-2.2.0-alpha03\AndroidManifest.xml:24:5-25:19
@@ -118,10 +118,10 @@ MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\v
 MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha05] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\7f640306f23430950ab3d238e572009f\databinding-adapters-3.6.0-alpha05\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\07a42dc6d5d3b1c6e0b2241609b5382a\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha05] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\07a42dc6d5d3b1c6e0b2241609b5382a\databinding-runtime-3.6.0-alpha05\AndroidManifest.xml:22:5-44
-MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\0f5db3445d85fcb3ffc98bf5dd06309f\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\0f5db3445d85fcb3ffc98bf5dd06309f\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\844ecb76c67a5444284326aec2ef39c8\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
-MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\844ecb76c67a5444284326aec2ef39c8\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3a7f99f68d52d926de7c2b5b1855272b\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\3a7f99f68d52d926de7c2b5b1855272b\jetified-koin-android-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\80d46fc0f6be7697664d1dc231f365b0\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\80d46fc0f6be7697664d1dc231f365b0\jetified-koin-android-scope-2.0.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\fe1dabaf640da0fd07c6bd997597e712\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\fe1dabaf640da0fd07c6bd997597e712\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\varda\.gradle\caches\transforms-2\files-2.1\bc52449546087fc63e037d21fb3d1b2d\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
